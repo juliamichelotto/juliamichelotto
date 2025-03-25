@@ -1,7 +1,7 @@
 ### Olá, sou a Julia Michelotto👋
 
-- 📚 Estou cursando Pós-Graduação em Desenvolvimento Full Stack na [PUC] (https://portal.pucrs.br/) 
-- 📚 Sou formada em Análise e Desenvolvimento de Sistemas na [Universidade Santa Cecília](https://unisanta.br/)
+- 📚 Estou cursando Pós-Graduação em Desenvolvimento Full Stack na Pontifícia Universidade Católica (PUC)
+- 📚 Sou formada em Análise e Desenvolvimento de Sistemas.
 
 
   
